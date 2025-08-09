@@ -1,4 +1,4 @@
-package java.api.runner;
+package api.runner;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

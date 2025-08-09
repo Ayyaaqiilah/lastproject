@@ -1,4 +1,4 @@
-package java.api.steps;
+package api.steps;
 
 import api.requests.UserApi;
 import io.cucumber.java.en.Given;

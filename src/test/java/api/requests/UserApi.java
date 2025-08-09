@@ -1,4 +1,4 @@
-package java.api.requests;
+package api.requests;
 
 import io.restassured.response.Response;
 import org.json.JSONObject;
